@@ -1,6 +1,10 @@
 # andinoriel.github.io
 
-## ...
+Personal site
+
+## License
+
+This project is licensed under the [MIT License](LICENSE)
 
 ## Credits
 
