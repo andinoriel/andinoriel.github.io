@@ -4,7 +4,7 @@ Personal site
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [CC BY 3.0](LICENSE)
 
 ## Credits
 
